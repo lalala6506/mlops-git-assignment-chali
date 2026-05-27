@@ -1,4 +1,6 @@
 # mlops-git-assignment-chali
+Name: Cha Li
+StudentID: 046626131
 
 ## Project Description
 This project is an MLOps pipeline set up using github
@@ -9,5 +11,4 @@ Date: May27/2026
 - Docker
 - Git
 
-## Setup Instructions
-1. Clone the repository
+

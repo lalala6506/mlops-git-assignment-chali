@@ -1,6 +1,8 @@
 # mlops-git-assignment-chali
-Cha Li
-046626131
+Name: Cha Li
+StudentID: 046626131
+Student ID:046626131
+Date: May27/2026
 
 ## Project Description
 This project is an MLOps pipeline set up using github
